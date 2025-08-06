@@ -1,16 +1,41 @@
-## Hi there 👋
+<h2 align="center">Hey there! I'm Basmah 👋</h2>
 
-<!--
-**codedbybasmax/codedbybasmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Information Systems Student • 📊 Learning Tech & Data • 👩‍💻 Future Data Analyst
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me | عني
+
+- 🏫 I'm a first-year student majoring in **Information Systems**  
+- 💡 Currently learning **coding**, **data**, and **GitHub**  
+- 🌱 Always curious and passionate about growth  
+- 🚀 On a journey to become a **Data Analyst**
+
+---
+
+- 🎓 طالبة في السنة الأولى تخصص **نظم المعلومات**  
+- 💻 أتعلم حالياً أساسيات البرمجة وتحليل البيانات  
+- 🌟 شغوفة بالتقنية والتعلم المستمر  
+- 🎯 أطمح أكون **محللة بيانات** في المستقبل
+
+---
+
+## 🛠️ Tools & Technologies | الأدوات والتقنيات
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 📈 GitHub Stats
+
+![Basmah's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbybasmax&show_icons=true&theme=tokyonight)
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci  
+> "التعلّم لا يُرهق العقل، بل يُنيره." – ليوناردو دافنشي
