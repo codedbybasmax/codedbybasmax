@@ -39,9 +39,12 @@
 
 Have a question, opportunity, or just want to connect?  
 Feel free to fill out this short form:  
-[Contact Form | نموذج التواصل]((https://docs.google.com/forms/d/e/1FAIpQLSdKtZCMZrN7zFOKN3HyjLIni14U-3_Tj3BYegrtoQZhkQ3xOQ/viewform?usp=header))
+[Contact Form | نموذج التواصل](https://docs.google.com/forms/d/e/1FAIpQLSdKtZCMZrN7zFOKN3HyjLIni14U-3_Tj3BYegrtoQZhkQ3xOQ/viewform?usp=sf_link)
 
-عندك سؤال أو فرصة؟ يسعدني تواصلك من خلال النموذج!
+---
+
+هل عندك سؤال، فرصة، أو حابة تتواصلي؟  
+يسعدني تواصلك من خلال النموذج أعلاه.
 ---
 > “Learning never exhausts the mind.” – Leonardo da Vinci  
 > "التعلّم لا يُرهق العقل، بل يُنيره." – ليوناردو دافنشي
