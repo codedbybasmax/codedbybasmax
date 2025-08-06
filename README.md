@@ -33,7 +33,7 @@
 ## 📄 Certificates | الشهادات
 
 🖼️ شاهد شهاداتي هنا | View my certificates:  
-[اضغط هنا | Click here](https://github.com/codedbybasmax/certificates)
+[اضغط هنا | Click here](https://github.com/codedbybasmax/-certificates)
 ---
 
 ## 📈 GitHub Stats
