@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Basmah 👋</h2>
+<h2 align="center">Hey there! I'm Basma 👋</h2>
 
 <p align="center">
 🎓 Information Systems Student • 📊 Learning Tech & Data • 👩‍💻 Future Data Analyst
