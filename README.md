@@ -30,6 +30,12 @@
 
 ---
 
+## 📄 Certificates | الشهادات
+
+🖼️ شاهد شهاداتي هنا | View my certificates:  
+[اضغط هنا | Click here](https://github.com/codedbybasmax/certificates)
+---
+
 ## 📈 GitHub Stats
 
 ![Basmah's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbybasmax&show_icons=true&theme=tokyonight)
