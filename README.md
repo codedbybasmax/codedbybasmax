@@ -8,14 +8,14 @@
 
 ## 👋 About Me | عني
 
-- 🏫 I'm a first-year student majoring in **Information Systems**  
+- 🏫 I'm an **Information Systems** Student
 - 💡 Currently learning **coding**, **data**, and **GitHub**  
 - 🌱 Always curious and passionate about growth  
 - 🚀 On a journey to become a **Data Analyst**
 
 ---
 
-- 🎓 طالبة في السنة الأولى تخصص **نظم المعلومات**  
+- 🎓 طالبة تخصص **نظم المعلومات**  
 - 💻 أتعلم حالياً أساسيات البرمجة وتحليل البيانات  
 - 🌟 شغوفة بالتقنية والتعلم المستمر  
 - 🎯 أطمح أكون **محللة بيانات** في المستقبل
